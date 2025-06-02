@@ -1,1 +1,2 @@
 Hello Git
+ git's not funny
